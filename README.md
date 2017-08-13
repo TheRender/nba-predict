@@ -12,3 +12,5 @@ pip install --editable .
 ```
 python nba-predict.py
 ```
+
+## API
